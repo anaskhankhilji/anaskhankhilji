@@ -2,9 +2,13 @@
 
 # Hi 👋, I'm Anas Khan
 
-### 🚀 Aspiring Data Engineer | BSCS Student | Cloud & Data Enthusiast
+### 🚀 Data Engineer | ETL Pipeline Developer | Cloud & Data Solutions Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Aspiring+Data+Engineer;Python+Developer;AWS+Cloud+Learner;ETL+Pipeline+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p>
+Passionate Data Engineer focused on building scalable ETL pipelines, automating data workflows, and transforming raw data into actionable insights. Experienced in Python, SQL, AWS, API integrations, and modern data engineering practices.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Engineer;ETL+Pipeline+Developer;Python+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Data+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -12,66 +16,54 @@
 
 ## 👨‍💻 About Me
 
-🎓 BS Computer Science Student
-
-📊 Passionate about Data Engineering, Cloud Computing, and Automation
-
-🐍 Building projects using Python, SQL, APIs, and AWS
-
-☁️ Learning modern Data Engineering and Cloud Technologies
-
-🚀 Interested in ETL Pipelines, Data Warehousing, and Big Data
-
-📚 Constantly learning and improving my technical skills
-
-💡 Open to internships, collaborations, and learning opportunities
+* 🚀 Data Engineer with hands-on project experience
+* 🛠️ Building scalable ETL and Data Pipeline solutions
+* ☁️ Working with AWS Cloud Services
+* 📊 Transforming raw data into meaningful insights
+* 🔄 Automating data workflows and integrations
+* 🎯 Open to Data Engineering Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Cloud & Data Engineering
+### Databases
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Tools & Technologies
+### Cloud & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Data Engineering
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+* ETL Pipelines
+* Data Processing
+* Data Transformation
+* API Integration
+* Data Validation
+* Workflow Automation
 
 ---
 
-## 🔥 Current Focus
+## 📊 GitHub Stats
 
-✅ Data Engineering
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-✅ AWS Cloud Services
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
-✅ ETL Pipeline Development
+---
 
-✅ Python Automation
+## 🏆 GitHub Trophies
 
-✅ SQL & Database Design
-
-✅ Software Engineering Best Practices
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,57 +71,62 @@
 
 ### 🎵 Last.fm Data Pipeline
 
-ETL pipeline that extracts music listening data from the Last.fm API and processes it using AWS cloud services.
+* Built an end-to-end ETL pipeline using Python and AWS
+* Extracted data from APIs
+* Automated data ingestion workflows
+* Processed and transformed datasets for analytics
 
-### 📊 Data Analytics Projects
+### ☁️ AWS Data Engineering Projects
 
-Projects involving data cleaning, transformation, visualization, and reporting.
+* AWS Lambda
+* Amazon S3
+* CloudWatch Monitoring
+* Serverless Data Processing
 
-### ☁️ Cloud-Based Applications
+### 📊 Data Processing Solutions
 
-Hands-on projects using AWS services including Lambda, S3, and CloudWatch.
+* Data Cleaning
+* Data Transformation
+* Data Validation
+* Reporting Pipelines
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Professional Focus
 
-- Master Data Engineering Fundamentals
-- Build More Cloud Projects
-- Contribute to Open Source
-- Gain Industry Experience
-- Earn Cloud Certifications
-- Secure a Data Engineering Role
+* Data Engineering
+* ETL Development
+* Cloud Data Solutions
+* Workflow Automation
+* Data Integration
+* Data Analytics
 
 ---
 
 ## 🎉 Fun Zone
 
-⚡ Fun Fact:
+⚡ Fun Fact: A successful ETL pipeline feels better than finding money in your pocket.
 
-I can spend hours debugging only to discover I missed a single character.
+☕ Coffee + Python + Data = Productivity
 
-☕ Coffee + Code + Curiosity = Continuous Learning
+🐍 Debugging pipelines at 2 AM builds character.
 
-🎯 Dream Job: Data Engineer
-
-🚀 Motto: Learn, Build, Improve, Repeat
+📈 Turning messy data into valuable business insights.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-khan-97425932b)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anaskhankhilji)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anaskhan481500@gmail.com)
+* GitHub: https://github.com/anaskhankhilji
+* LinkedIn: https://www.linkedin.com/in/anas-khan-97425932b
+* Email: anaskhan481500@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Open to Data Engineering Opportunities
 
-"Transforming data into valuable insights, one pipeline at a time."
+### "Turning Data into Insights Through Engineering"
 
 </div>
