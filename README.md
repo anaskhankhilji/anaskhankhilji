@@ -53,20 +53,6 @@ Passionate Data Engineer focused on building scalable ETL pipelines, automating 
 
 ---
 
-## 📊 GitHub Stats
-
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📂 Featured Projects
 
 ### 🎵 Last.fm Data Pipeline
